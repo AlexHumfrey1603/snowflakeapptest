@@ -1,4 +1,4 @@
 import streamlit
-import snowlake.connector
+import snowflake-connector-python
 
 streamlit.title('Clothing Catalog')

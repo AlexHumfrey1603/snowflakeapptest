@@ -1,0 +1,3 @@
+# reuirements.txt
+snowflake-connector-python
+cffi ==1.115.0
